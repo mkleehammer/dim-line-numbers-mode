@@ -27,4 +27,4 @@ active window.
 As an example, in this screenshot, the top window is active and the cursor is on line 6.  The
 bottom window is inactive.
 
-![screenshot](https://github.com/mkleehammer/dim-line-numbers-mode/assets/27421/0e5e754c-ff2e-4df9-b071-c448c9c0f2bf)
+![screenshot](screenshot.png)
