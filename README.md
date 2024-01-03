@@ -21,8 +21,10 @@ lisp path.  I use ~/.emacs.d/lisp and configure use-package to load from there u
 Be sure to configure the dim-line-number face to match your theme.  I use Modus Vivendi with
 already dim gray numbers, but with a bright orange/yellow cursor and active line number.  I use
 the default dim-line-number of a very dark gray.  The dark gray numbers make it obvious the
-window is inactive and the removal of the yellow active line number helps draw the eye to
+window is inactive and the removal of the yellow active line number helps draw the eye to the
 active window.
 
 As an example, in this screenshot, the top window is active and the cursor is on line 6.  The
 bottom window is inactive.
+
+![screenshot](https://github.com/mkleehammer/dim-line-numbers-mode/assets/27421/0e5e754c-ff2e-4df9-b071-c448c9c0f2bf)
